@@ -1,4 +1,4 @@
-# pearson-viddeo-scraper
+# pearson-video-scraper
 Gets the URLs for every single tutorial video that Pearson made for some math courses in both English and Spanish
 
 I only needed to run this script once. It is here just so people can see that I know how to code (somewhat).
